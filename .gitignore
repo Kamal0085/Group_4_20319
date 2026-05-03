@@ -1,0 +1,8 @@
+# Compiled object files
+*.o
+
+# Compiled executable
+scheduler
+
+# macOS files
+.DS_Store
